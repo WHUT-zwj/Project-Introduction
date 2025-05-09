@@ -4,6 +4,10 @@
 ⚡ **( I ) Project 1:** Led a Provincial-level Undergraduate Entrepreneurial Practice Project — ```Wuxian Technology — Leader in Automotive 4D Imaging Millimeter-Wave Radar Antennas``` (March 2024 - Present).<br>
 **Responsibilities:** As the primary project lead, I managed the team and coordinated the project's application, execution, and conclusion. I was also primarily responsible for developing the team's MIMO-based FMCW radar algorithms.<br>
 **Achievements:** As the second person-in-charge, the project secured Silver Awards in both the Hubei Provincial China International College Students' 'Internet+' Innovation and Entrepreneurship Competition and the Hubei Provincial iCAN Innovation and Entrepreneurship Competition. Additionally, I engaged in technical exchanges with companies such as Desay SV (Nanjing).<br>
+https://github.com/WHUT-zwj/Project-Introduction/tree/main/《吾线科技——车载4D成像毫米波雷达天线引领者》
+
+
+
 
 ⚡ **( II ) Project 2:** ```Olympic Medal Prediction Based on Spatio-temporal Distribution and Zero-Truncation Characteristics``` (Project Lead) (January 2024).<br>
 **Task:** To address the highly skewed distribution and zero-truncation issues in Olympic medal counts, while incorporating the coach effect, identifying both previously and first-time medaling countries, and quantifying uncertainty.<br>
