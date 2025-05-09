@@ -38,5 +38,5 @@
 **Task:** To address the multi-dimensional complexity of relative poverty identification and establish a scientific identification system for precise classification.<br>
 **Solution:** Constructed a multi-dimensional poverty-revitalization synergistic indicator system, performed feature selection based on Random Forest, and utilized a Bayesian cost-sensitive neural network for identification.<br>
 **Personal Contributions:** Responsible for modeling and framework construction, writing sections on preprocessing, model, and result analysis, visualization, and programming the feature selection implementation.<br>
-**Achievement:** First Prize in the Central South Regional Competition of the China Collegiate Computer Design Contest.<be>
+**Achievement:** First Prize in the Central South Regional Competition of the China Collegiate Computer Design Contest.<br>
 **Link:**[Project 6](https://github.com/WHUT-zwj/Project-Introduction/tree/main/大数据下的贫困数据挖掘与相对贫困识别)
